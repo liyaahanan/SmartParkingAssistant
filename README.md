@@ -66,3 +66,5 @@ It uses an ultrasonic sensor to measure the distance between a vehicle and an ob
 - Test the system using physical hardware.
 - Improve the graphical user interface.
 - Complete system testing and documentation.
+- ## Wokwi Simulation
+- https://wokwi.com/projects/481773791471033345
